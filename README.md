@@ -10,13 +10,13 @@ Run the utility with the following commands:
 
 Download JSON:
 ```
-node activity.js -n 10 -f json
+node app.js -n 10 -f json
 ```
 Download CSV:
 ```
-node activity.js -n 5 -f csv
+node app.js -n 5 -f csv
 ```
 Print to Console:
 ```
-node activity.js -n 15 -f console
+node app.js -n 15 -f console
 ```
