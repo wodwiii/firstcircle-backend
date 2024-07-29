@@ -3,7 +3,13 @@ This Node Aapp fetches data from the API at [`https://bored-api.appbrewery.com/r
 
 ## Installation
 1. Clone Repository
+```
+git clone https://github.com/wodwiii/firstcircle-backend
+```
 2. Install Dependencies
+```
+npm install
+```
 
 ## Usage
 Run the utility with the following commands:
